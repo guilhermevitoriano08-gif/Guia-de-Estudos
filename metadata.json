@@ -1,0 +1,6 @@
+{
+  "name": "StudyFlow - Gestor de Objetivos de Estudo",
+  "description": "Aplicação acolhedora e intuitiva para estudantes iniciantes cadastrarem, acompanharem e gerenciarem seus objetivos de estudo com persistência local.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
